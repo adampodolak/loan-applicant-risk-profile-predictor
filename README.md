@@ -1,4 +1,4 @@
-# loan-applicant-risk-profile-predictor# 🧠 Predicting Loan Applicant Risk Profiles Using Machine Learning
+# 🧠 Predicting Loan Applicant Risk Profiles Using Machine Learning
 
 ### Commerce 3FN3 — Big Data in Finance | McMaster University  
 **Author:** Adam Podolak  
